@@ -1,0 +1,19 @@
+ Given Open Browser
+    And Enter Url "http://demo.automationtesting.in/Register.html"
+    When Enter the firstname "FirstName"
+    When Enter the second name "LastName"
+    When Enter the Address "Address"
+    When Enter the email address "sony@sony.com"
+    When Enter the Address "9955662143"
+    And Click on radio button male/female
+    And Click on hobbies cricket
+    And Click Languages
+    And Click Skills
+    And Click country
+    And Click countries
+    And Click on year
+    And Click on Month
+    And click on day
+    And Enter Password
+    And Enter confirm password
+    And Click on submit button
