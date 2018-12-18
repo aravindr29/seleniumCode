@@ -6,7 +6,7 @@
     When Enter the email address "sony@sony.com"
     When Enter the Address "9955662143"
     And Click on radio button male/female
-    And Click on hobbies
+    And Click on hobbies cricket
     And Click Languages
     And Click Skills
     And Click country
